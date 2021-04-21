@@ -1,0 +1,68 @@
+.App{
+  /* background-color: rgb(130, 226, 233); */
+   margin: 0px;
+   padding:0px;
+   top: 0;
+
+}
+
+.header{
+  width: 100%;
+  color: white;
+  background-color: rgb(16, 114, 153);
+  font-family: sans-serif;
+  height: 50px;
+  text-align: center;
+ 
+}
+.py-4{
+  padding-left: 60px;
+
+}
+.AppData .row{
+  padding-top: 3em;
+  margin-left: 1.5rem;
+  font-weight: bold;
+  position: relative;
+
+  
+}
+/* .AppData .cell{
+  
+} */
+.AppData .cards{
+  margin-left: 1.5rem;
+  padding-top: 2rem;
+}
+
+
+form{
+padding-top: 2rem;
+display: block;  
+float: right;
+
+
+}
+form input[type=text]{
+  right: 150%;
+  padding-top: 0.5rem;
+
+}
+
+ label{
+      font-weight: bold;
+  }
+  .btn{
+    margin-top: 23px;
+    
+  }
+  .form{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 450px;
+    font-size: 25px;
+    
+  }
+  
+
+  
